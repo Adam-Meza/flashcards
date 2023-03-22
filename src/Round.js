@@ -14,8 +14,13 @@ class Round {
     this.turns += 1
     this.currentCardIndex += 1
     this.currentTurn = new Turn(userInput, this.currentCard)
-    !this.currentTurn.evaluateGuess() ? this.incorrectGuesses.push(this.currentCard.id) : null;
     this.currentCard = this.deck.cards[this.currentCardIndex]
+    !this.currentTurn.evaluateGuess() ? this.incorrectGuesses.push(this.currentCard.id) : null;
+    return this.currentTurn.giveFeedback()
+  }
+
+  returnCurrentCard() {
+    return this.currentCard
   }
 
   calculatePercentCorrect() {
