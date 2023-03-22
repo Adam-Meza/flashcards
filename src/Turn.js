@@ -1,6 +1,6 @@
 class Turn {
   constructor(guess, card) {
-    this.guess = guess.toLowerCase(),
+    this.guess = guess,
     this.card = card
   }
 
