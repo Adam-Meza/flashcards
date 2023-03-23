@@ -1,9 +1,3 @@
-
-
-![flash cards example gif](https://media.giphy.com/media/1zkb1q58eTiTH6D7wc/giphy.gif)
-
----
-
 ## Abstract
 
 This application helps users study basic principles of Javascript by giving questions, supplying feedback to user choices and loggin the percent of answers correct
@@ -17,4 +11,6 @@ This application helps users study basic principles of Javascript by giving ques
 
 ### Preview of App:
 
-<iframe src="https://giphy.com/embed/S8R0ckTDe07BNjbGrb" width="442" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/S8R0ckTDe07BNjbGrb">via GIPHY</a></p>
+
+<div style="width:100%;height:0;padding-bottom:109%;position:relative;"><iframe src="https://giphy.com/embed/S8R0ckTDe07BNjbGrb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/S8R0ckTDe07BNjbGrb">via GIPHY</a></p>
+
