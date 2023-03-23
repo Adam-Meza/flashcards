@@ -26,3 +26,4 @@ This application was designed, built, and refined over a 1 week timeline as the 
 ## Technology Used:
 
 This application was made in Javascript os VS code
+
