@@ -11,6 +11,4 @@ This application helps users study basic principles of Javascript by giving ques
 
 ### Preview of App:
 
-
-<div style="width:100%;height:0;padding-bottom:109%;position:relative;"><iframe src="https://giphy.com/embed/S8R0ckTDe07BNjbGrb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/S8R0ckTDe07BNjbGrb">via GIPHY</a></p>
-
+](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwZmE0ZTAyOGZhNjYxNTE2YmMzNDExYWY5ZWFiMzJjYTllNjgzNSZjdD1n/S8R0ckTDe07BNjbGrb/giphy.gif)
