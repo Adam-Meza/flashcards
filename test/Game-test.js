@@ -16,7 +16,7 @@ describe('Game', () => {
   round;
 
   beforeEach(() => {
-    game = new Game()
+    game = new Game();
   })
 
   it('should be an instance of game', () => expect(game).to.be.an.instanceOf(Game))
