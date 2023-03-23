@@ -4,20 +4,17 @@
 
 ---
 
-## Test Files Organization
+## Abstract
 
-Similar to feature code, your test code needs to be put in a specific place for it to run successfully.
+This application helps users study basic principles of Javascript by giving questions, supplying feedback to user choices and loggin the percent of answers correct
 
-**Put all of your test files in the `test` directory.** As a convention, all test filenames should end with `-test.js`. For instance: `Round-test.js`.
+### Installation Instructions:
+- Open the repo in Github: https://github.com/adam-meza/tic-tac-toe
+- Use the terminal to clone the repository to your local machine
+- Navigate into the project directory
+- Run the command `open index.html` to open the app in your browser
+- In your terminal run 'node index.js"
 
-## Running Your Tests
+### Preview of App:
 
-Run your test suite using the command:
-
-```bash
-npm test
-```
-
-The test results will output to the terminal.
-
-
+<iframe src="https://giphy.com/embed/S8R0ckTDe07BNjbGrb" width="442" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/S8R0ckTDe07BNjbGrb">via GIPHY</a></p>
