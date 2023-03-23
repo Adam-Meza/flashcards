@@ -6,8 +6,7 @@ This application helps users study basic principles of Javascript by giving ques
 - Open the repo in Github: https://github.com/adam-meza/tic-tac-toe
 - Use the terminal to clone the repository to your local machine
 - Navigate into the project directory
-- Run the command `open index.html` to open the app in your browser
-- In your terminal run 'node index.js"
+- In your terminal run `node index.js`
 
 ## Preview of App:
 
