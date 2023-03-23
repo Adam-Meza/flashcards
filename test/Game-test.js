@@ -17,10 +17,9 @@ describe('Game', () => {
 
   beforeEach(() => {
     game = new Game();
-  })
+  });
 
   it('should be an instance of game', () => expect(game).to.be.an.instanceOf(Game))
   it('should keep track of current round', () => expect(game.currentRound).to.be.an.instanceOf(Round))
   it('it should be able to make a new deck', () => expect(game.createDeck()).to.be.an.instanceOf(Deck))
-
-})
+});
