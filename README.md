@@ -11,4 +11,4 @@ This application helps users study basic principles of Javascript by giving ques
 
 ### Preview of App:
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwZmE0ZTAyOGZhNjYxNTE2YmMzNDExYWY5ZWFiMzJjYTllNjgzNSZjdD1n/S8R0ckTDe07BNjbGrb/giphy.gif
+[See Here](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzMwZmE0ZTAyOGZhNjYxNTE2YmMzNDExYWY5ZWFiMzJjYTllNjgzNSZjdD1n/S8R0ckTDe07BNjbGrb/giphy.gif)
